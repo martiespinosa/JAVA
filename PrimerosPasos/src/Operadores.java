@@ -20,9 +20,9 @@ public class Operadores {
         System.out.println(i);
 
         // DIVISIÓN
-        int j = 90;
-        int k = 3;
-        int l = j / k;
+        float j = 100;
+        float k = 3;
+        float l = j / k;
         System.out.println(l);
 
         // INCREMENTO EN 1
