@@ -1,4 +1,4 @@
-public class App {
+public class Variables {
     public static void main(String[] args) throws Exception {
         
         // Declaración e Iniciación de la variable edad1 en dierentes líneas:
@@ -12,3 +12,4 @@ public class App {
         
     }
 }
+
