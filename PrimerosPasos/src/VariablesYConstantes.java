@@ -22,6 +22,12 @@ public class VariablesYConstantes {
         // Declaración e Iniciación de la constante edad4 en la misma línea:
         final byte edad4 = 55;
         System.out.println(edad4);
+
+
+
+        // CHAR
+        char a = 'A';
+        System.out.println(a);
         
     }
 }
