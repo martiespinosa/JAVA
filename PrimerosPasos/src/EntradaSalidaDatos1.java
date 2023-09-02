@@ -2,7 +2,7 @@ import java.util.*;
 
 // si un metodo es estatico hay que hacer referencia a la clase que pertenece el metodo (ej. Math.sqrt). si el metodo no es estatico hay que crar antes un objeto perteneciente a esa clase (ej. Scanner entrada = new Scanner(System.in) donde entrada es un objeto perteneciente a la clase Scanner, ahora ya se pueden usar metodos de la clase Scanner así (ej. entrada.nextLine()))
 
-public class EntradaSalidaDatos {
+public class EntradaSalidaDatos1 {
     // ejecutar el programa desde "Run" de aqui abajo para que funcione
     public static void main(String[] args) throws Exception {
 
