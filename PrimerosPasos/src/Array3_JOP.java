@@ -2,7 +2,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Array3 {
+public class Array3_JOP {
     public static void main(String[] args) {
         
         String [] paises = new String [8];
