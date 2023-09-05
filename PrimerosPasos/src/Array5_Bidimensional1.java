@@ -1,4 +1,4 @@
-// ARRAY BIDIMENSIONAL (ARRAY DENTRO DE ARRAY)
+// ARRAY BIDIMENSIONAL (ARRAY DENTRO DE ARRAY) DECLARADA E INICIADA POR SEPARADO
 
 public class Array5_Bidimensional1 {
     public static void main(String[] args) {
