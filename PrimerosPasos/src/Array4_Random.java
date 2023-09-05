@@ -1,6 +1,6 @@
 // ARRAY CON VALORES REANDOM
 
-public class Array4 {
+public class Array4_Random {
     public static void main(String[] args) {
         
         int [] array_random = new int[150];
